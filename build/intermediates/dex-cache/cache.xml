@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_44fef181b2ce6f1fd9ff91c7c27e1cf65042479f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c000cb21e76e44a39fc08fa9fca90f54866410b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/985431115520c192b481a4edf9f97eaa424cfe60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b6b474f4a0ff3697290345c38e664347e084aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/ab4a3ee8a33964e325dcdef3adbb3e2bdf21c450/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bfc987adc9ee403d819301932d0e9cd8dc42877/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="66bd47a0a4a8408b2512b058cce97993f657521c">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b864326d40367b02d69c5493a5ee0f51d0bcd187/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/f5c442b029ecf6bab2188e79aea6898aa4c44ea4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b45b716f7aa49423752ce9091fddaa411097c8d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/c672bcbeff505093bdaa3e501c7812103c7d4227/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6543d3d12aaef78798b1a6c1332dadce826e230f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/647a232292a1c586819b984220b8bf689aa37bc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48b1d716e4eaf5dcf535f6539cb654202148ad8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/4d42e3d808b85501a470b2154eba62d275677531/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6787163e818f1e6cad9795676cb20a171bab9014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/3baf3f63ea251e4c1d9b0202660474e2bab9ef37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_effac2c2c183d4d40a84d1636aca93e2f8c9fdd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/8eef589a88e9ed54bd215a8d07984d92edff0df2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e3a23f75776e8417ed5800faae686b9a0ad1c13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/83e0778c52332e5ae942329a6c1678260949654a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca53f69c62391049a62281f04439b3e1d0ce5f3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/a3173089a4d676e0a6202bdf9b4702547128a1d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_930ade153fba09ceaa234ef09be0a1f5e6113c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/47173dbaea6d7ed137c357dd7ed85498a32d97d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c85cfe28f4d56c98da03ca1298c2ebf21479185c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiagoalencar/.android/build-cache/6a158902dc3492ff4dface5b9de4aee564b8b642/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/tiagoalencar/Documents/workspace-android/TesteFirstAccess/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bac4e4a783e07dbb6e3a7ff6102b34631a569c44/classes.dex" />
+    </item>
+
+</items>
